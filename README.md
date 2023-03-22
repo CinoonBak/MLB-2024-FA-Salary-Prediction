@@ -49,6 +49,10 @@ Models:
 * Multiple Linear Regression - Also a baseline for the model
 * Lasso Regression - Normalized regression for the sparse of categorical variable
 * Random Fores - Also because of the sparsity associated with the data 
+
+<img width="1018" alt="2024-Prediction" src="https://user-images.githubusercontent.com/118776460/227012713-088621b7-7686-4ffe-955a-9fb3f6d82ce1.png">
+
+
 # Model Performance
 Muliple LInear Regression and Lasso Regression had the exact same MAE values.
 
